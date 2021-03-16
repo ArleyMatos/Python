@@ -1,0 +1,7 @@
+lista1 = [1,2,5,3]
+type(lista1)
+print(lista1)
+print(lista1[0])
+print(lista1[1])
+print(lista1[2])
+print(lista1[3])
