@@ -1,0 +1,8 @@
+lista1=[1,4]
+for numero in lista1 :
+    dobro = numero * 2
+    print(numero)
+    print(dobro)
+    print('- - - - -')
+    nome = 'daniel'
+print(nome[0:4])
